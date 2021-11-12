@@ -41,3 +41,7 @@ vignettes/*.pdf
 # Ignoriere folgende Dateien
 *.csv
 README.html
+
+#Daten in data Ordner nicht auf GitHub pushen
+
+data/
